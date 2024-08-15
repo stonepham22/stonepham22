@@ -1,9 +1,3 @@
-<h1 align="center">Stone Pham</h1>
-
-<p align="center">
-    <img src="https://github.com/stonepham22/stonepham22/blob/main/Image/MyPic.jpg" alt="MyPic" width="150">
-</p>
-
 <div align="center">
     <a href="https://www.facebook.com/profile.php?id=100095605534038" target="_blank">
         <img src="https://github.com/stonepham22/stonepham22/blob/main/Image/Icons/facebook.png" width="40" height="40">
