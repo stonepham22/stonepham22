@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Stone Pham</h1>
 
-<!--
-**stonepham22/stonepham22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <img src="https://github.com/stonepham22/stonepham22/blob/main/Image/MyPic.jpg" alt="MyPic" width="150">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <a href="https://www.facebook.com/profile.php?id=100095605534038" target="_blank">
+        <img src="https://github.com/stonepham22/stonepham22/blob/main/Image/Icons/facebook.png" width="40" height="40">
+    </a>
+    <a href="https://github.com/stonepham22" target="_blank">
+        <img src="https://github.com/stonepham22/stonepham22/blob/main/Image/Icons/github.png" width="40" height="40">
+    </a>
+    <a href="mailto:tongthachpham22101997@gmail.com">
+        <img src="https://github.com/stonepham22/stonepham22/blob/main/Image/Icons/mail.png" width="40" height="40">
+    </a>
+    <a href="https://www.youtube.com/@TongThachPham/featured" target="_blank">
+        <img src="https://github.com/stonepham22/stonepham22/blob/main/Image/Icons/youtube.png" width="40" height="40">
+    </a>
+    <a href="https://stonepham.itch.io" target="_blank">
+        <img src="https://github.com/stonepham22/stonepham22/blob/main/Image/Icons/itch.io.png" width="40" height="40">
+    </a>
+</div>
